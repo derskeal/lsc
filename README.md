@@ -1,0 +1,2 @@
+# lsc
+Linux Shortcut Creator
