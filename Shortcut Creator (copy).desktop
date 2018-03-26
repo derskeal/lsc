@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Terminal=true
+Exec=python /opt/shortcut-creator.py
+Name=Shortcut Creator by Derskeal
+Icon=
+Comment=Shortcut Creator for Kali Linux 2018.1 by Comical Derskeal
+Name[en_NG]=Shortcut Creator
